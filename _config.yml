@@ -39,29 +39,33 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
+  #zhihu: 
   email: qingaoyuan@foxmail.com
-  facebook:
-  flickr:
+  #facebook:
+ # flickr:
   github: Aide-Wiu 
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
+ # googleplus: # anything in your profile username that comes after plus.google.com/
+  #instagram:
+ # linkedin:
+ # pinterest:
+ # rss: # just type anything here for a working RSS icon
+ # stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+ # tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
-  youtube:
+ # youtube:
 
 # Text under the icons in footer
 footer-text: Copyright (c) 2019 lemon
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: # fromendworld
+#disqus: # fromendworld
 
-
+gitalk:
+  clientID: fb4c6daf5fae76168e1f
+  clientSecret: eec91eb9d64a490eae13a80b3b7e1612ea3f4724
+  repo: Aiden-Wiu.github.io
+  owner: Aiden-Wiu
 
 
 url: https://Aiden-Wiu.github.io
