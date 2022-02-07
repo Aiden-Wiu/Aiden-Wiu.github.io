@@ -35,15 +35,14 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+#footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<username>
-  dribbble:
+ # dribbble:
   #zhihu: 
-  email: qingaoyuan@foxmail.com
+  #email: qingaoyuan@foxmail.com
   #facebook:
  # flickr:
-  github: Aide-Wiu 
+  #github: Aide-Wiu 
  # googleplus: # anything in your profile username that comes after plus.google.com/
   #instagram:
  # linkedin:
@@ -79,6 +78,8 @@ url: https://Aiden-Wiu.github.io
 #
 # !! You don't need to change any of the configuration flags below !!
 #
+
+google_analytics: UA-219653649-1
 
 permalink: /:title/
 paginate_path: /page:num/
